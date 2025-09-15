@@ -1,1 +1,1 @@
-## FaceTrack - Smart AI Attendance Sytem
+# FaceTrack - Smart AI Attendance System
